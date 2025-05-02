@@ -21,8 +21,8 @@ La entrega de los trabajos prácticos es obligatoria y debe ser realizada de man
 
 - **Ejercicio 1:** Debe ser entregado antes de la **Clase 3**.
 - **Ejercicio 2:** Debe ser entregado antes de la **Clase 4**.
-- **Ejercicio 3:** Debe ser entregado antes de la **Clase 5**.
-- **Ejercicio 4:** Optativo
+- **Ejercicio 3:** Opcional.
+- **Ejercicio 4:** Opcional.
 
 ---
 
@@ -30,18 +30,21 @@ La entrega de los trabajos prácticos es obligatoria y debe ser realizada de man
 
 El proyecto debe ser entregado por grupos e incluir los siguientes elementos:
 
-- **Código funcional:** El código debe estar correctamente implementado y listo para su ejecución.
-- **Informe técnico:** Debe contener:
-  - Los pasos seguidos en el desarrollo del proyecto.
-  - Decisiones de diseño del modelo.
-  - Análisis detallado de los resultados.
-  - Visualizaciones generadas.
+- **Proyecto estructurado en git que contenga:** 
+  - **Código** funcional y estructurado (nivel-preproducción). 
+  - **Informe técnico:** Debe contener:
+    - Los pasos seguidos en el desarrollo del proyecto.
+    - Decisiones de diseño del modelo.
+    - Análisis detallado de los resultados.
+    - Visualizaciones generadas.
+  - **README** orientativo. 
+
 - **Presentación final:** Duración de 15 minutos, enfocada en:
-  - Resultados más destacados.
+  - Análisis de los resultados más relevantes, con énfasis en las métricas utilizadas.
   - Visualizaciones del modelo.
   - Explicación de cómo el modelo puede aplicarse en un contexto real.
 
-El código y el informe deben ser entregados a más tardar el **lunes anterior a la clase 8**. 
+El código y el informe deben ser entregados a más tardar el **viernes siguiente a la clase 7**. 
 
 ---
 
@@ -51,10 +54,10 @@ El proyecto será evaluado de acuerdo a los siguientes criterios:
 
 | **Criterio**                     | **Ponderación** |
 |-----------------------------------|-----------------|
-| **Claridad conceptual**           | 25%             |
+| **Claridad técnica del informe**          | 25%             |
 | **Calidad del código**            | 25%             |
 | **Evaluación y análisis**         | 25%             |
-| **Explicabilidad y visualización** | 25%             |
+| **Presentación y visualización** | 25%             |
 
 
 ---
